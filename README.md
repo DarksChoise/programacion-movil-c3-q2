@@ -588,6 +588,10 @@ export default Home;
 
 ![Página principal con componentes](./img/image.png)
 
+# VIDEO DE LA APLICACIÓN FUNCIONANDO
+
+[Video de la aplicación funcionando](https://youtu.be/yyjNuWYS0SM)
+
 
 
 
